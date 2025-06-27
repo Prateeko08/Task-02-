@@ -29,7 +29,7 @@ StrideX is a fictional sports shoe brand that focuses on performance, comfort, a
 ## Do's and Don'ts
 
 | Do's                                      |Don'ts
-|--------------------------------------------------------------------------------------
+|-------------------------------------------|------------------------------------------
 | Use action-oriented, inspiring phrases    |Use generic or flat descriptions
 | Highlight personal growth and performance |Focus only on fashion or looks
 | Speak with enthusiasm and clarity         |Use confusing or overly technical language
